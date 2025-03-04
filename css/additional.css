@@ -1,0 +1,221 @@
+@media only screen and (min-width:1000px) and (max-width:5000px) {
+ body.kc-css-system .kc-css-363366 {
+  width:35%;
+ }
+ body.kc-css-system .kc-css-454843 {
+  width:65%;
+ }
+ body.kc-css-system .kc-css-392571 {
+  width:100%;
+ }
+ body.kc-css-system .kc-css-722300 {
+  width:100%;
+ }
+ body.kc-css-system .kc-css-583895 {
+  width:100%;
+ }
+ body.kc-css-system .kc-css-277988 {
+  width:100%;
+ }
+ body.kc-css-system .kc-css-513281 {
+  width:100%;
+ }
+}
+body.kc-css-system .kc-css-967214 {
+ padding-top:60px;
+}
+body.kc-css-system .kc-css-706400.profile-card .entry-title {
+ color:#000000;
+ font-family:Lato;
+ font-size:28px;
+ font-weight:700;
+ padding-bottom:20px;
+}
+body.kc-css-system .kc-css-706400.profile-card .card_st_fix p {
+ font-family:Lato;
+ font-size:13px;
+ font-weight:500;
+}
+body.kc-css-system .kc-css-739187 ,
+body.kc-css-system .kc-css-739187 p {
+ font-size:12px;
+ line-height:18px;
+}
+body.kc-css-system .kc-css-472447 ,
+body.kc-css-system .kc-css-472447 p {
+ color:#424242;
+ font-size:14px;
+ line-height:23px;
+}
+body.kc-css-system .kc-css-361641.kc_title,
+body.kc-css-system .kc-css-361641 .kc_title,
+body.kc-css-system .kc-css-361641 .kc_title a.kc_title_link {
+ color:#000000;
+ font-weight:600;
+ margin-bottom:0px;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > li a,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li>a {
+ font-family:Lato;
+ font-size:15px;
+ line-height:40px;
+ font-weight:700;
+ text-transform:none;
+ text-align:center;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav a,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li>a {
+ color:#000000;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav {
+ background-color:#ffffff;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > li > a,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li>a {
+ padding:10px 20px 10px 20px;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav li:hover a,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav li:hover,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > .ui-tabs-active:hover a,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li>a:hover,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li.ui-tabs-active > a {
+ color:#ffffff;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > li:hover,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > li:hover a,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > li > a:hover,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li>a:hover,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li.ui-tabs-active > a {
+ background-color:#c10504;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav li.ui-tabs-active a,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li.ui-tabs-active > a {
+ color:#ffffff;
+}
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > .ui-tabs-active:focus,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > .ui-tabs-active,
+body.kc-css-system .kc-css-912470 .kc_tabs_nav > .ui-tabs-active > a,
+body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li.ui-tabs-active > a {
+ background-color:#c10504;
+}
+body.kc-css-system .kc-css-912470 .kc_tab {
+ background-color:#ffffff;
+}
+body.kc-css-system .kc-css-912470 .kc_tab .kc_tab_content {
+ padding:45px 0px 0px 0px;
+}
+body.kc-css-system .kc-css-71935.profile-card .fig-title {
+ font-size:14px;
+ font-weight:600;
+}
+body.kc-css-system .kc-css-71935.profile-card .fig-title-des {
+ color:#666666;
+ font-size:13px;
+ line-height:17px;
+ margin-top:8px;
+}
+body.kc-css-system .kc-css-71935.action-wrap .btn-action {
+ color:#000000;
+ font-weight:500;
+ text-transform:uppercase;
+ text-align:left;
+ text-decoration:underline;
+}
+body.kc-css-system .kc-css-71935.action-wrap .btn-action:hover {
+ text-decoration:none;
+}
+body.kc-css-system .kc-css-166678.profile-card .fig-title {
+ font-size:14px;
+ font-weight:600;
+}
+body.kc-css-system .kc-css-166678.profile-card .fig-title-des {
+ color:#666666;
+ font-size:13px;
+ line-height:17px;
+ margin-top:8px;
+}
+body.kc-css-system .kc-css-166678.action-wrap .btn-action {
+ color:#000000;
+ font-weight:500;
+ text-transform:uppercase;
+ text-align:left;
+ text-decoration:underline;
+}
+body.kc-css-system .kc-css-166678.action-wrap .btn-action:hover {
+ text-decoration:none;
+}
+body.kc-css-system .kc-css-731389.profile-card .fig-title {
+ font-size:14px;
+ font-weight:600;
+}
+body.kc-css-system .kc-css-731389.profile-card .fig-title-des {
+ color:#666666;
+ font-size:13px;
+ line-height:17px;
+ margin-top:8px;
+}
+body.kc-css-system .kc-css-731389.action-wrap .btn-action {
+ color:#000000;
+ font-weight:500;
+ text-transform:uppercase;
+ text-align:left;
+ text-decoration:underline;
+}
+body.kc-css-system .kc-css-731389.action-wrap .btn-action:hover {
+ text-decoration:none;
+}
+body.kc-css-system .kc-css-539852.profile-card .fig-title {
+ font-size:14px;
+ font-weight:600;
+}
+body.kc-css-system .kc-css-539852.profile-card .fig-title-des {
+ color:#666666;
+ font-size:13px;
+ line-height:17px;
+ margin-top:8px;
+}
+body.kc-css-system .kc-css-539852.action-wrap .btn-action {
+ color:#000000;
+ font-weight:500;
+ text-transform:uppercase;
+ text-align:left;
+ text-decoration:underline;
+}
+body.kc-css-system .kc-css-539852.action-wrap .btn-action:hover {
+ text-decoration:none;
+}
+body.kc-css-system .kc-css-770833.profile-card .fig-title {
+ font-size:14px;
+ font-weight:600;
+}
+body.kc-css-system .kc-css-770833.profile-card .fig-title-des {
+ color:#666666;
+ font-size:13px;
+ line-height:17px;
+ margin-top:8px;
+}
+body.kc-css-system .kc-css-770833.action-wrap .btn-action {
+ color:#000000;
+ font-weight:500;
+ text-transform:uppercase;
+ text-align:left;
+ text-decoration:underline;
+}
+body.kc-css-system .kc-css-770833.action-wrap .btn-action:hover {
+ text-decoration:none;
+}
+@media only screen and (max-width:767px) {
+ body.kc-css-system .kc-css-912470 .kc_tabs_nav > li,
+ body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li {
+  width:100%;
+ }
+}
+@media only screen and (max-width:479px) {
+ body.kc-css-system .kc-css-912470 .kc_tabs_nav > li,
+ body.kc-css-system .kc-css-912470.kc_vertical_tabs>.kc_wrapper>ul.ui-tabs-nav>li {
+  width:100%;
+ }
+}
