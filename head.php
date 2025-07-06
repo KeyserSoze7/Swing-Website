@@ -116,7 +116,7 @@
         .hero-section {
     position: relative;
     font-weight: 700;
-    min-height: 150vh;
+    min-height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center; /* Center horizontally */
